@@ -52,3 +52,4 @@ pnpm run preview
 - `src/App.tsx` — dashboard shell, navigation, and supporting pages.
 - `src/styles.css` — responsive emergency-operations visual system.
 # The-FIxers_242
+PROTOTYPE : https://floodfirst-mdzjzapj.manus.space
