@@ -51,3 +51,4 @@ pnpm run preview
 - `src/components/ActionCard.tsx` — response actions and simulated alert workflow.
 - `src/App.tsx` — dashboard shell, navigation, and supporting pages.
 - `src/styles.css` — responsive emergency-operations visual system.
+# The-FIxers_242
